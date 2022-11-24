@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e49b929286e0499468ff109aa5ddeb39, type: 3}
+  m_Name: GlobalCanvasInstaller
+  m_EditorClassIdentifier: 
+  UIGlobalCanvasPrefab: {fileID: 2060696617238370455, guid: e149a4f1bbe1e2149aee6990a790ecc3, type: 3}
